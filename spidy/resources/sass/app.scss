@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.postsingleView main div {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.fontsmall {
+    font-size: $font-size-small !important;
+}
